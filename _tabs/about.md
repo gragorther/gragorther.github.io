@@ -34,7 +34,7 @@ Matrix is a decentralized chat app, also [used by Germany](https://element.io/ma
 
 #### Svelte
 
-Svelte is a really simple to use web development framework, and they recently released a pretty good update, Svelte 5 (though I might not be the best person to hold such an opinion because I'm kind of a noob at web development). The previous version of this site was actually written in Svelte, though I have now moved to Hugo.
+Svelte is a really simple to use web development framework, and they recently released a pretty good update, Svelte 5 (though I might not be the best person to hold such an opinion because I'm kind of a noob at web development). The previous version of this site was actually written in Svelte, though I moved to Hugo, and then (hopefully) finally Jekyll.
 
 ### Videogames
 
