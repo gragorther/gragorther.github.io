@@ -27,7 +27,7 @@ Let me start off with saying that there is no 100% European browser, they all us
 
 What makes absolutely no sense to me is when people claim proprietary European alternatives, such as Vivaldi, are better than their open-source American counterparts. This notion is wrong, for multiple reasons. Open-source is global. Even if the developers are from North Korea, the source code can be freely reviewed by experts from all around the world for vulnerabilites or backdoors.
 
-Europeans should, instead of switching to proprietary European alternatives, use open-source browsers without malicious tracking and data mining. This would cut off a large part of companies' which live off digital advertising revenue, and it would allow European companies to continue working on it should the original company stop development.
+Europeans should, instead of switching to proprietary European alternatives, use open-source browsers without malicious tracking and data mining. This would cut off a large part of companies which live off digital advertising revenue, and it would allow European companies to continue working on it should the original company stop the development of its browser.
 
 ## Conclusion
 
