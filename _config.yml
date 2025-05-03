@@ -16,7 +16,7 @@ timezone: Europe/Ljubljana
 
 title: GregTech # the main title
 
-tagline: My personal blog # it will display as the subtitle
+tagline: My personal blog, I mostly talk about tech and politics. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A blog page for my own stuff, mostly about Linux and tech in general and politics.
