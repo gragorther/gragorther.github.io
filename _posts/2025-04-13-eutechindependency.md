@@ -1,6 +1,6 @@
 ---
 title: Is the EU's Technology Independent Enough to Implement Tariffs on American Tech?
-date: "2025-04-13"
+date: "2025-05-03T13:20"
 categories:
   - tech
   - politics
