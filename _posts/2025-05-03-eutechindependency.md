@@ -9,7 +9,7 @@ tags:
   - Europe
 ---
 
-With the recent tariffs Trump has been mindlessly applying, the only reasonable move is to counter them with our own to avoid collaboration with fascists, however German finance minister Jörg Kukies warns “We simply have to be cautious with digital corporations because we have no real alternatives to the offering by the American digital industry”, mentioning data centres for cloud services and artificial intelligence[^jorg], but is that really the case? There are European alternatives listed on [european-alternatives.eu](https://european-alternatives.eu/). One potential issue is with CPUs, which I will discuss in the following section.
+With the recent tariffs Trump has been mindlessly applying, the only reasonable move is to counter them with our own to avoid collaboration with the insane American government, however German finance minister Jörg Kukies warns “We simply have to be cautious with digital corporations because we have no real alternatives to the offering by the American digital industry”, mentioning data centres for cloud services and artificial intelligence[^jorg], but is that really the case? There are European alternatives listed on [european-alternatives.eu](https://european-alternatives.eu/). One potential issue is with CPUs, which I will discuss in the following section.
 
 ## CPUs
 
